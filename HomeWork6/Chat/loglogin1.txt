@@ -1,0 +1,59 @@
+1
+2
+3
+fluck
+fluck: hello
+fluck: look
+fluck: 1
+fluck: 2
+fluck: 3
+fluck: 4
+fluck: 5
+fluck: 6
+fluck: 7
+fluck: 8
+fluck: 9
+fluck: 10
+fluck: hello
+great: hi
+great: great
+fluck: sorry
+fluck: what
+fluck: ?
+fluck: ok
+fluck: lol
+fluck: привет лимон
+fluck: привет лимон
+fluck: привет лимон
+fluck: what
+fluck: ?
+fluck: ok
+fluck: lol
+fluck: лимон
+fluck: лимон
+fluck: кот
+fluck: кот
+fluck: *
+fluck: * *офеевич
+fluck: * and *
+fluck: * and *
+fluck: 6
+fluck: * живет в *е and *
+fluck: hello
+fluck: *
+fluck: good
+fluck: *цензура*
+fluck: *цензура*
+fluck: *цензура*
+fluck: *цензура*
+great: Hello
+fluck: Hi
+to great: What you want?
+fluck: Hello
+great: hi
+from great: What you want?
+fluck: Hello
+great: Hi
+fluck: please, help me
+from great: What you want?
+fluck: ?
